@@ -7,7 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    
     <form method="post" action="../controller/user_controller.php">
         Nome: <input type="text" name="nome" id="nome"/> <br>
         Endereço: <input type="text" name="endereco" id="endereco"/><br>
@@ -15,7 +14,6 @@
         Senha: <input type="password" name="senha" id="senha"/><br>
         Confirmar Senha: <input type="password" name="conf_senha" id="conf_senha"/><br>
         <input type="submit" value="Cadastrar"/>
-
     </form>
 </body>
 </html>
